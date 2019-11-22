@@ -80,7 +80,7 @@
 
 1.下载 [AnyConnect](https://storage.monocloud.co/client/AnyConnect/AnyConnect.apk) 客户端并安装打开
 
-2.参照[IOS中使用AnyConnect](https://github.com/1874yin/monocloud-usage/blob/master/README.md#%E5%9C%A8-ios-%E4%B8%AD%E4%BD%BF%E7%94%A8 ）
+2.参照 [在IOS中使用](https://github.com/1874yin/monocloud-usage/blob/master/README.md#%E5%9C%A8-ios-%E4%B8%AD%E4%BD%BF%E7%94%A8)
 
 **OpenConnect客户端** (可选记住密码，不可更换节点）
 
