@@ -56,7 +56,7 @@ Instruction of monocloud client for windows &amp; mobile phone.
 
 > fmt1.link.ac.cn 或 eu1.link.ac.cn 或 tw1.link.ac.cn 或 hk1.link.ac.cn
 
-![setting](./img/AnyConnect/setting.png)
+![setting.png](./img/AnyConnect/setting.png)
 
 5.返回主界面，点击开关连接VPN，并输入**用户名**和密码
 
