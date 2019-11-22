@@ -14,27 +14,27 @@ Instruction of monocloud client for windows &amp; mobile phone.
 
 2.运行后，输入**登录邮箱**和密码（不是用户名），可选 **Auto Login**记住密码下次自动登陆
 
-![login.png](./img/mono-client/login.png)
+<img src="./img/mono-client/login.png" width="200" height="150">
 
 3.登陆后来到以下界面
 
-![select.png](./img/mono-client/select.png)
+<img src="./img/mono-client/select.png" width="200" height="150">
 
 4.选择套餐（这里是 Classic B)
 
-![set.png](./img/mono-client/set.png)
+<img src="./img/mono-client/set.png" width="200" height="150">
 
 5.LINK中选择地区
 
-![area.png](./img/mono-client/area.png)
+<img src="./img/mono-client/area.png" width="200" height="150">
 
 6.选择节点
 
-![node.png](./img/mono-client/node.png)
+<img src="./img/mono-client/node.png" width="200" height="150">
 
 7.MODE选择代理模式，GLOBAL为全局模式，不知道选什么则选择PAC
 
-![mode.png](./img/mono-client/mode.png)
+<img src="./img/mono-client/mode.png" width="200" height="150">
 
 8.点击灰色按钮，连接成功后客户端自动缩小到任务栏。完成！
 
@@ -46,25 +46,24 @@ Instruction of monocloud client for windows &amp; mobile phone.
 
 2.打开AnyConnect，点击**连接/Connectino**，添加VPN链接
 
-![add.png](./img/AnyConnect/add.png)
 <img src="./img/AnyConnect/add.png" width="300" height="550">
 
 3.点击**添加 VPN 连接...**
 
-![add2.png](./img/AnyConnect/add.png)
+<img src="./img/AnyConnect/add2.png" width="300" height="550">
 
 4.在下面的地址中选择一个填入**服务器地址/Server Address**：
 
 > fmt1.link.ac.cn 或 eu1.link.ac.cn 或 tw1.link.ac.cn 或 hk1.link.ac.cn
 
-![setting.png](./img/AnyConnect/setting.png)
+<img src="./img/AnyConnect/setting.png" width="300" height="550">
 
 5.返回主界面，点击开关连接VPN，并输入**用户名**和密码
 
-![auth.png](./img/AnyConnect/auth.png)
+<img src="./img/AnyConnect/auth.png" width="300" height="550">
 
 6.断开连接之后即可在首页 **连接/Connection** 中看到服务器列表，如果觉得节点速度较慢可以尝试更换服务器
 
-![list.png](./img/AnyConnect/list.png)
+<img src="./img/AnyConnect/list.png" width="300" height="550">
 
 7.AnyConnect无法记住密码，所以每次登陆都需要手动输入。可以选择OpenConnect或者IOS客户端
