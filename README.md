@@ -6,13 +6,15 @@
 ## 在 Windows 中使用
 **Monocloud客户端**
 
-1.下载Monocloud客户端，解压并打开运行
+1.下载Monocloud客户端，运行exe文件
 
 下载地址：
 
-[Monocloud_client](https://storage.monocloud.co/client/Windows/MonoCloud_V1.0.6.zip)
+> [Monocloud_client](https://storage.monocloud.co/client/Windows/MonoCloud_V1.0.6.zip)
 
-如果下载后无法运行，安装[Microsoft.NET Framework 4.6](https://www.microsoft.com/zh-CN/download/details.aspx?id=53345)后重试
+如果下载后无法运行，安装
+
+> [Microsoft.NET Framework 4.6](https://www.microsoft.com/zh-CN/download/details.aspx?id=53345)
 
 2.运行后，输入**登录邮箱**和密码（不是用户名），可选 **Auto Login**记住密码下次自动登陆
 
@@ -43,7 +45,11 @@
 ## 在 IOS 中使用
 **AnyConnect客户端**
 
-1.点击连接 [AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690) 并下载安装。（或在AppStore中搜索 AnyConnect,可能需要美区AppleID）
+1.点击连接 
+
+> [AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690) 
+
+并下载安装（或在AppStore中搜索 AnyConnect,可能需要美区AppleID）
 
 2.打开AnyConnect，点击**连接/Connection**，添加VPN链接
 
@@ -78,7 +84,9 @@
 ## 在 Android 中使用
 **AnyConnect客户端**
 
-1.下载 [AnyConnect](https://storage.monocloud.co/client/AnyConnect/AnyConnect.apk) 客户端并安装打开
+1.下载 
+
+> [AnyConnect](https://storage.monocloud.co/client/AnyConnect/AnyConnect.apk) 
 
 2.参照 
 
@@ -86,7 +94,9 @@
 - - -
 **OpenConnect客户端** (可选记住密码，不可更换节点）
 
-1.下载 [OpenConnect](https://static.monocloud.co/client/anyconnect/app.openconnect.apk) 客户端并安装打开
+1.下载 
+
+> [OpenConnect](https://static.monocloud.co/client/anyconnect/app.openconnect.apk) 
 
 2.点击 + 图标添加配置文件
 
