@@ -3,6 +3,7 @@ Instruction of monocloud client for windows &amp; mobile phone.
 
 ## 1.在Windows中使用
 **Monocloud客户端**
+
 1.下载Monocloud客户端，解压并打开运行
 
 下载地址：
@@ -16,18 +17,18 @@ Instruction of monocloud client for windows &amp; mobile phone.
 ![login.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/login.png)
 
 3.登陆后来到以下界面
-(select.png)
+![select.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/select.png)
 
 4.选择套餐（这里是 Classic B)
-(set.png)
+![set.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/set.png)
 
 5.LINK中选择地区
-(area.png)
+![area.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/area.png)
 
 6.选择节点
-node.png
+![node.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/node.png)
 
 7.MODE选择代理模式，GLOBAL为全局模式，不知道选什么则选择PAC
-mode.png
+![mode.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/mode.png)
 
 8.点击灰色按钮，连接成功后客户端自动缩小到任务栏。完成！
