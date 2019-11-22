@@ -116,7 +116,7 @@
 
 4.返回主界面，点击刚刚添加的节点
 
-<img src="./img/OpenCennect/list.png" width="300" height="600">
+<img src="./img/OpenConnect/list.png" width="300" height="600">
 
 5.输入 **用户名** 和密码，确定完成！
 
