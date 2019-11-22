@@ -47,7 +47,7 @@ Instruction of monocloud client for windows &amp; mobile phone.
 2.打开AnyConnect，点击**连接/Connectino**，添加VPN链接
 
 ![add.png](./img/AnyConnect/add.png)
-<img src="./img/AnyConnect/add.png" width="300" height="550")
+<img src="./img/AnyConnect/add.png" width="300" height="550">
 
 3.点击**添加 VPN 连接...**
 
