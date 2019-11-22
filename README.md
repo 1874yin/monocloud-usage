@@ -13,7 +13,7 @@ Instruction of monocloud client for windows &amp; mobile phone.
 
 2.运行后，输入**登录邮箱**和密码（不是用户名），可选 **Auto Login**记住密码下次自动登陆
 
-(login.png)
+![login.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/login.png)
 
 3.登陆后来到以下界面
 (select.png)
