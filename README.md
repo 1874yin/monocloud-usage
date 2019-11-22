@@ -18,22 +18,22 @@ Instruction of monocloud client for windows &amp; mobile phone.
 
 3. 登陆后来到以下界面
 
-![select.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/select.png)
+![select.png](./img/mono-client/select.png)
 
 4. 选择套餐（这里是 Classic B)
 
-![set.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/set.png)
+![set.png](./img/mono-client/set.png)
 
 5. LINK中选择地区
 
-![area.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/area.png)
+![area.png](./img/mono-client/area.png)
 
 6. 选择节点
 
-![node.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/node.png)
+![node.png](./img/mono-client/node.png)
 
 7. MODE选择代理模式，GLOBAL为全局模式，不知道选什么则选择PAC
 
-![mode.png](https://raw.githubusercontent.com/1874yin/monocloud-usage/master/img/mono-client/mode.png)
+![mode.png](./img/mono-client/mode.png)
 
 8. 点击灰色按钮，连接成功后客户端自动缩小到任务栏。完成！
