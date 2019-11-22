@@ -40,30 +40,31 @@ Instruction of monocloud client for windows &amp; mobile phone.
 
 ## 在 IOS 中使用
 
-1.点击连接 [AnyConnect点我](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690)并下载安装。
+1.点击连接 [AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690) 并下载安装。（或在AppStore中搜索 AnyConnect,可能需要美区AppleID）
 
-（或在AppStore中搜索 AnyConnect 并下载安装，可能需要美区AppleID）
+2.打开AnyConnect，点击**连接/Connection**，添加VPN链接
 
-2.打开AnyConnect，点击**连接/Connectino**，添加VPN链接
-
-<img src="./img/AnyConnect/add.png" width="300" height="550">
+<img src="./img/AnyConnect/add.png" width="300" height="500">
 
 3.点击**添加 VPN 连接...**
 
-<img src="./img/AnyConnect/add2.png" width="300" height="550">
+<img src="./img/AnyConnect/add2.png" width="300" height="500">
 
 4.在下面的地址中选择一个填入**服务器地址/Server Address**：
 
-> fmt1.link.ac.cn 或 eu1.link.ac.cn 或 tw1.link.ac.cn 或 hk1.link.ac.cn
+> fmt1.link.ac.cn 
+> eu1.link.ac.cn 
+> tw1.link.ac.cn 
+> hk1.link.ac.cn
 
-<img src="./img/AnyConnect/setting.png" width="300" height="550">
+<img src="./img/AnyConnect/setting.png" width="300" height="500">
 
-5.返回主界面，点击开关连接VPN，并输入**用户名**和密码
+5.返回主界面，点击开关连接VPN，在弹出的界面输入**用户名**和密码，组默认为"smart"即可
 
-<img src="./img/AnyConnect/auth.png" width="300" height="550">
+<img src="./img/AnyConnect/auth.png" width="300" height="500">
 
-6.断开连接之后即可在首页 **连接/Connection** 中看到服务器列表，如果觉得节点速度较慢可以尝试更换服务器
+6.断开连接之后可在 **连接/Connection** 中看到服务器列表，如果觉得节点速度较慢可以尝试更换服务器
 
-<img src="./img/AnyConnect/list.png" width="300" height="550">
+<img src="./img/AnyConnect/list.png" width="300" height="500">
 
 7.AnyConnect无法记住密码，所以每次登陆都需要手动输入。可以选择OpenConnect或者IOS客户端
