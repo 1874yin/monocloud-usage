@@ -39,6 +39,7 @@ Instruction of monocloud client for windows &amp; mobile phone.
 8.点击灰色按钮，连接成功后客户端自动缩小到任务栏。完成！
 
 ## 在 IOS 中使用
+**AnyConnect客户端**
 
 1.点击连接 [AnyConnect](https://apps.apple.com/us/app/cisco-anyconnect/id1135064690) 并下载安装。（或在AppStore中搜索 AnyConnect,可能需要美区AppleID）
 
@@ -53,8 +54,11 @@ Instruction of monocloud client for windows &amp; mobile phone.
 4.在下面的地址中选择一个填入**服务器地址/Server Address**：
 
 > fmt1.link.ac.cn 
+
 > eu1.link.ac.cn 
+
 > tw1.link.ac.cn 
+
 > hk1.link.ac.cn
 
 <img src="./img/AnyConnect/setting.png" width="300" height="500">
@@ -68,3 +72,40 @@ Instruction of monocloud client for windows &amp; mobile phone.
 <img src="./img/AnyConnect/list.png" width="300" height="500">
 
 7.AnyConnect无法记住密码，所以每次登陆都需要手动输入。可以选择OpenConnect或者IOS客户端
+
+## 在 Android 中使用
+**AnyConnect客户端**
+
+1.下载 [AnyConnect](https://storage.monocloud.co/client/AnyConnect/AnyConnect.apk) 客户端并安装打开
+
+2.参照[IOS中使用AnyConnect](IOSAnyConnect链接）
+
+** OpenConnect客户端 ** (可选记住密码，不可更换节点）
+
+1.下载 [OpenConnect](https://static.monocloud.co/client/anyconnect/app.openconnect.apk) 客户端并安装打开
+
+2.点击 + 图标添加配置文件
+
+<img src="./img/OpenConnect/home.png" width="300" height="600">
+
+3.从以下服务器中选择一个填入
+
+> fmt1.link.ac.cn
+
+> eu1.link.ac.cn 
+
+> tw1.link.ac.cn 
+
+> hk1.link.ac.cn
+
+<img src="./img/OpenConnect/addServer.png" width="300" height="600">
+
+4.返回主界面，点击刚刚添加的节点
+
+<img src="./img/OpenCennect/list.png" width="300" height="600">
+
+5.输入 **用户名** 和密码，确定完成！
+
+<img src="./img/OpenConnect/auth.png" width="300" height="600">
+
+6.可以将四个服务器地址都添加备用
