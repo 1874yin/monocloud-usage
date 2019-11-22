@@ -112,7 +112,7 @@
 
 > hk1.link.ac.cn
 
-<img src="./img/OpenConnect/addServer.png" width="300" height="600">
+<img src="./img/OpenConnect/addServer.jpg" width="300" height="600">
 
 4.返回主界面，点击刚刚添加的节点
 
@@ -120,6 +120,6 @@
 
 5.输入 **用户名** 和密码，确定完成！
 
-<img src="./img/OpenConnect/auth.png" width="300" height="600">
+<img src="./img/OpenConnect/auth.jpg" width="300" height="600">
 
 6.可以将四个服务器地址都添加备用
