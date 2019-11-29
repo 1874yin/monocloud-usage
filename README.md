@@ -18,27 +18,27 @@
 
 2.运行后，输入**登录邮箱**和密码（不是用户名），可选 **Auto Login**记住密码下次自动登陆
 
-<img src="./pics/mono-client/login.png" width="200" height="150">
+<img src="./pics/monoclient/login.png" width="200" height="150">
 
 3.登陆后来到以下界面
 
-<img src="./pics/mono-client/select.png" width="200" height="150">
+<img src="./pics/monoclient/select.png" width="200" height="150">
 
 4.选择套餐（这里是 Classic B)
 
-<img src="./pics/mono-client/set.png" width="200" height="150">
+<img src="./pics/monoclient/set.png" width="200" height="150">
 
 5.LINK中选择地区
 
-<img src="./pics/mono-client/area.png" width="200" height="150">
+<img src="./pics/monoclient/area.png" width="200" height="150">
 
 6.选择节点
 
-<img src="./pics/mono-client/node.png" width="200" height="150">
+<img src="./pics/monoclient/node.png" width="200" height="150">
 
 7.MODE选择代理模式，GLOBAL为全局模式，不知道选什么则选择PAC
 
-<img src="./pics/mono-client/mode.png" width="200" height="150">
+<img src="./pics/monoclient/mode.png" width="200" height="150">
 
 8.点击灰色按钮，连接成功后客户端自动缩小到任务栏。完成！
 
